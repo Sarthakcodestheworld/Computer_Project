@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(to bottom right, blueviolet, pink);
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+section {
+    background-color: azure;
+    margin-top: 75px;
+}
+
+img {
+    border-color: aqua;
+    height: 40%;
+    width: 40%;
+}
+
+.link {
+    float: left;
+    color: #fff;
+    font-size: 20px;
+    font-family: cursive;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+}
+
+h1 {
+    background-image: linear-gradient(to bottom right, blueviolet, red);
+}
